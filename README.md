@@ -20,5 +20,9 @@
 - Cart.md 추가
 
 
+## 사이드바 추가
+- Side.md 추가
+
 ## 검색창 추가
 - Search.md 추가  
+
